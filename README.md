@@ -22,7 +22,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
-  <img src="https://w7.pngwing.com/pngs/259/743/png-transparent-%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0-yandex-direct-%D0%A0%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D0%B0-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D0%B0-%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0-google-search-metrics-angle-flag-text.png" title="Яндекс метрика" alt="Яндекс метрика" width="40" height="40"/>&nbsp
+  <img src="https://private-user-images.githubusercontent.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png" title="Яндекс метрика" alt="Яндекс метрика" width="40" height="40"/>&nbsp
 
 </div>
 
