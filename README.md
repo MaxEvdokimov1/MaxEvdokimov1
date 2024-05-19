@@ -22,8 +22,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
-  <img src="https://private-user-images.githubusercontent.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png" title="Яндекс метрика" alt="Яндекс метрика" width="40" height="40"/>&nbsp
-
 </div>
 
 ## Тестирование Web и Мобильных приложений
