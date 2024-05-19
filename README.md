@@ -69,7 +69,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
-  <img src="https://w7.pngwing.com/pngs/259/743/png-transparent-%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0-yandex-direct-%D0%A0%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D0%B0-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D0%B0-%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0-google-search-metrics-angle-flag-text.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
+  <img src="https://private-user-images.githubusercontent.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
