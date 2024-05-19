@@ -77,20 +77,20 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_ru.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_ru.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
+[<img src="/internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship.png)
+[<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/stepik.png)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en.png)
-[<img src="/recommendation_qa.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/recommendation_qa.png)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
+[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png)
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:metrika8@testcloud.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/evdokimovmax)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
