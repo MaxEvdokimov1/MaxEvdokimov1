@@ -1,16 +1,15 @@
 ## Привет！ 👋
-Меня зовут Герман, я QA Engineer
-(тут можно добавить ещё пару строчек о себе)
+Меня зовут Максим, я QA Engineer
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=German-D)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=German-D)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=MaxEvdokimov1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=MaxEvdokimov1)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=German-D)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=MaxEvdokimov1)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -23,7 +22,8 @@
   <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Яндекс метрика" alt="Яндекс метрика" width="40" height="40"/>&nbsp
+
 </div>
 
 ## Тестирование Web и Мобильных приложений
@@ -69,7 +69,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
+  <img src="https://w7.pngwing.com/pngs/259/743/png-transparent-%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0-yandex-direct-%D0%A0%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D0%B0-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D0%B0-%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0-google-search-metrics-angle-flag-text.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
